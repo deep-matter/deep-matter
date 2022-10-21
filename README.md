@@ -30,6 +30,6 @@ BLOG-POST-LIST:END
 
 <!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Youness-Elbrag/github-readme-activity-graph#customization -->
 
-[![Youness's github activity graph](https://github-readme-streak-stats.herokuapp.com/graph?user=youness-elbrag&theme=react-dark)](https://github.com/youness-elbrag/github-readme-activity-graph)
+[![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?user=Youness-Elbrag&theme=react-dark)](https://github.com/Youness-Elbrag/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
