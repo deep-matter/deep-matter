@@ -27,6 +27,6 @@
 
 <!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Youness-Elbrag/github-readme-activity-graph#customization -->
 
-[![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)]
+![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)
 
-![](https://github.com/youness-elbrag/deep-diver/blob/output/github-contribution-grid-snake.svg)
+![Youness's github activity commits](https://github.com/youness-elbrag/deep-diver/blob/output/github-contribution-grid-snake.svg)
