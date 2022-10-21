@@ -18,8 +18,8 @@
 
 
 
-<a align="center"  >
- <img src="https://github-readme-stats.vercel.app/api?username=youness-elbrag&show_icons=true&locale=en&theme=react" alt="youness-elbrag" /> </a>
+     <p align="center" >
+     <img src="https://github-readme-stats.vercel.app/api?username=youness-elbrag&show_icons=true&locale=en&theme=react" alt="youness-elbrag" /> </p>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=dark#gh-dark-mode-only" alt="youness-elbrag" /> -->
 
