@@ -32,3 +32,4 @@ BLOG-POST-LIST:END
 
 [![Youness's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=react-dark)](https://github.com/youness-elbrag/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
