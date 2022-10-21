@@ -13,13 +13,13 @@
 - ⚡ Fun fact **I like to keep my options open, and I am always looking for new and exciting projects to build and give my best. i'm exciting for applying AI in many of area in the real world application , and ready to bring new solution and be active in Problem--Solving tasks**
 
 ### Blogs posts
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END  -->
 
 
 
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=youness-elbrag&show_icons=true&locale=en&theme=react" alt="youness-elbrag" />
+<a align="center"  >
+ <img src="https://github-readme-stats.vercel.app/api?username=youness-elbrag&show_icons=true&locale=en&theme=react" alt="youness-elbrag" /> </a>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=dark#gh-dark-mode-only" alt="youness-elbrag" /> -->
 
