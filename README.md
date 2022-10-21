@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Youness El BRAG</h1>
 <h3 align="center">As an Artificial Intelligence Engineer and academic researcher  enthusiast, one of my long-term goals is to improve in software engineering so that AI and ML can be used for more than just mathematical modeling but also in production.</h3>
 <h3 align="center">Connect with me:</h3>
+<p align="center>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/younesselbrag) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/elbragyouness) [<img src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/younesselbrag) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@younesselbrag) [<img src="https://img.shields.io/badge/Dev.to-%41454A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/@elbrag) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/ELBRA#0163)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/younesselbrag) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/elbragyouness) [<img src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/younesselbrag) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@younesselbrag) [<img src="https://img.shields.io/badge/Dev.to-gray.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/@elbrag) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/ELBRA#0163)
+</p>
 <br>
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=youness-elbrag&label=Profile%20views&color=0e75b6&style=flat" alt="youness-elbrag" /> </p>
