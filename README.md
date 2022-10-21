@@ -24,12 +24,12 @@ BLOG-POST-LIST:END
 
 <img  src="https://github-readme-stats.vercel.app/api?username=youness-elbrag&show_icons=true&locale=en&theme=radical" alt="youness-elbrag" />
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=dark#gh-dark-mode-only" alt="youness-elbrag" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=dark#gh-dark-mode-only" alt="youness-elbrag" />
 
 
 
 <!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Youness-Elbrag/github-readme-activity-graph#customization -->
 
-[![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?user=youness-elbrag&theme=react-dark)](https://github.com/youness-elbrag/github-readme-activity-graph)
-<!-- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)](https://github.com/youness-elbrag/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
