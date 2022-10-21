@@ -30,5 +30,5 @@ BLOG-POST-LIST:END
 
 <!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Youness-Elbrag/github-readme-activity-graph#customization -->
 
-[![Youness's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Youness's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&theme=react-dark)](https://github.com/youness-elbrag/github-readme-activity-graph)
 
