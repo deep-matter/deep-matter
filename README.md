@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo12953
-Fork on GitHub3340
 <h1 align="center">Hi 👋, I'm Youness El BRAG</h1>
 <h3 align="center">As an Artificial Intelligence and academic research enthusiast, one of my long-term goals is to improve in software engineering so that AI and ML can be used for more than just mathematical modeling but also in production.</h3>
 
@@ -53,30 +49,3 @@ Fork on GitHub3340
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youness-elbrag&" alt="youness-elbrag" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
