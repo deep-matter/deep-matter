@@ -12,6 +12,7 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/@elbrag"
+                
             - uses: Platane/snk@v2
               with:
                 # github user name to read the contribution graph from (**required**)
