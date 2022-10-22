@@ -7,7 +7,7 @@ on:
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-  push: {branches: ["yamlnot", "main"]}
+  
   
 jobs: 
     update-readme-with-blog: 
@@ -35,7 +35,7 @@ jobs:
               uses: ad-m/github-push-action@master
               with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
-                branch: master 
+                branch: main
                 force: true
             - uses: actions/checkout@v2
             - uses: crazy-max/ghaction-github-pages@v2.1.3
