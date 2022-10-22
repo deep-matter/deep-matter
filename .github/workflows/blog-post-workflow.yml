@@ -14,7 +14,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses:  actions/checkout@v3
-            - uses: younsselbrag/younsselbrag@main
+            - uses:  github.com:Youness-Elbrag/Youness-Elbrag@main
             - uses: ./.github/workflows/blog-post-workflow.yml
               with: 
                 max_post_count: "4"
