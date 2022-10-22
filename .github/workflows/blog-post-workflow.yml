@@ -17,8 +17,8 @@ jobs:
             - uses: actions/checkout@v2
             - uses:  gautamkrishnar/blog-post-workflow@v1
               with: 
-                max_post_count: "0"
-                feed_list: "https://dev.to/feed/@elbrag"
+                max_post_count: "4"
+                feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
             - uses: Platane/snk@master
               id: snake-gif
               with:
