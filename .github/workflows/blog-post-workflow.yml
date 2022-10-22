@@ -16,7 +16,7 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
             - uses:  gautamkrishnar/blog-post-workflow@v1
-              with: 
+              #with: 
                 #feed_list: "https://dev.to/feed/@elbrag"
             - uses: Platane/snk@master
               id: snake-gif
