@@ -15,7 +15,7 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
             - uses: Youness-Elbrag/Youness-Elbrag@main
-            - uses: ./.github/workflows/blog-post-workflow.yml
+            - uses: /Youness-Elbrag/Youness-Elbrag/blob/main/.github/workflows/blog-post-workflow.yml
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/@elbrag"
