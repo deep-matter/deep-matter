@@ -29,4 +29,4 @@
 
 ![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)
 
-![](https://github.com/youness-elbrag/youness-elbrag/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/youness-elbrag/youness-elbrag/main/github-contribution-grid-snake.svg)
