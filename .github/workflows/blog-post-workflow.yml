@@ -3,7 +3,7 @@ name: Latest blog post workflow and snake generated
 on:
   schedule:
       # every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: '0 * * * *'
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: youness-elbrag/blog-post-workflow@master
+            - uses: youness-elbrag/blog-post-workflow@main
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/@elbrag"
