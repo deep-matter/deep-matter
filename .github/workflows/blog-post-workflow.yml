@@ -12,8 +12,8 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: ./github/blog-post-workflow@main
+            - uses:  actions/checkout@v2
+            - uses: ./.github/workflows/blog-post-workflow.yml
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/@elbrag"
