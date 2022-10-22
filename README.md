@@ -1,4 +1,4 @@
-[![](https://github.com/youness-elbrag/youness-elbrag/chat.svg)](https://twitter.com/elbragyouness)
+[![](https://github.com/youness-elbrag/youness-elbrag/main/chat.svg)](https://twitter.com/elbragyouness)
 
 <h3 align="center">Connect with me:</h3>
 
@@ -33,4 +33,4 @@
 
 ![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)
 
-![](https://github.com/youness-elbrag/youness-elbrag/output/github-contribution-grid-snake.svg)
+![](https://github.com/youness-elbrag/youness-elbrag/bold/output/github-contribution-grid-snake.svg)
