@@ -7,16 +7,18 @@ on:
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+  push: {branches: ["yamlnot", "main"]}
+  
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: ./github/blog-post-workflow@main
+            - uses:  gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/@elbrag"
+                feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
             - uses: Platane/snk@master
               id: snake-gif
               with:
@@ -33,9 +35,9 @@ jobs:
               uses: ad-m/github-push-action@master
               with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
-                branch: master
+                branch: master 
                 force: true
-
+            - uses: actions/checkout@v2
             - uses: crazy-max/ghaction-github-pages@v2.1.3
               with:
                 # the output branch we mentioned above
