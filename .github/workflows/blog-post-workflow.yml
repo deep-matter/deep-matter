@@ -15,8 +15,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: youness-elbrag/blog-post-workflow@main
-            - uses: ./.github/workflows/blog-post-workflow.yml
+            - uses:  gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/@elbrag"
