@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Youness El BRAG</h1>
-<h3 align="center">As an Artificial Intelligence Engineer and academic researcher  enthusiast, one of my long-term goals is to improve in software engineering so that AI and ML can be used for more than just mathematical modeling but also in production.</h3>
+[![](https://github.com/youness-elbrag/youness-elbrag/blob/master/chat.svg)](https://twitter.com/elbragyouness)
+
 <h3 align="center">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/youness-el-brag-b13628203/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/elbragyouness) [<img src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/younesselbrag) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@younesselbrag) [<img src="https://img.shields.io/badge/Dev.to-gray.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/@elbrag) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/#0163)
+   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/youness-el-brag-b13628203/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/elbragyouness) [<img src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/younesselbrag) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@younesselbrag) [<img src="https://img.shields.io/badge/Dev.to-gray.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/@elbrag) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/#0163)
 <br>
 
 - 💬 Ask me about **Math behinds Neural network and RL**
@@ -29,4 +29,4 @@
 
 ![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)
 
-![](https://github.com/youness-elbrag/deep-diver/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/youness-elbrag/youness-elbrag/blob/output/github-contribution-grid-snake.svg)
