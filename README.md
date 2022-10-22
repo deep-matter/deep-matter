@@ -1,4 +1,4 @@
-[![](https://github.com/youness-elbrag/youness-elbrag/blob/main/chat.svg)](https://twitter.com/elbragyouness)
+[![](https://github.com/youness-elbrag/youness-elbrag/main/chat.svg)](https://twitter.com/elbragyouness)
 
 <h3 align="center">Connect with me:</h3>
 
