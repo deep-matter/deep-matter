@@ -28,6 +28,6 @@
 
 <!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Youness-Elbrag/github-readme-activity-graph#customization -->
 
-![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=youness-elbrag&theme=react-dark)
+![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=deep-matter&theme=react-dark)
 
 ![](https://github.com/deep-matter/deep-matter/blob/output/github-contribution-grid-snake.svg)
