@@ -4,7 +4,7 @@
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:younsselbrag@gmail.com)
 [![My Linkdin](https://img.shields.io/badge/My%20Linkdin-%230077B5?logo=Linkdin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/youness-el-brag-b13628203/)
-[![My ReseachGate](https://img.shields.io/badge/My%20ReseachGate-%00CCBB?logo=Twitter&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Youness-El-Brag)
+[![My ReseachGate](https://img.shields.io/badge/My%20ReseachGate-00CCBB?logo=Twitter&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Youness-El-Brag)
 [![My Twitter](https://img.shields.io/badge/My%20Twitter-%230077B5?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/elbragyouness)
 [![My Kaggke](https://img.shields.io/badge/My%20Kaggle-3D80E0?logo=kaggle&logoColor=white&style=for-the-badge)](https://kaggle.com/younesselbrag)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdeep-matter%2Fdeep-matter%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeep-matter%2Fdeep-matter%2F)
