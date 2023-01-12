@@ -15,8 +15,10 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
+            - name: checkout
             - uses: actions/checkout@v2
-            - uses: deep-matter/blog-post-workflow@v1
+            - name: Pull in medium.com to posts
+            - uses: gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "3"
                 remove_duplicates: true
