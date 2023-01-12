@@ -17,9 +17,7 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@v1
-              with: 
-                max_post_count: "3"
-                remove_duplicates: true
+              with:
                 feed_list: "https://younsess-elbrag.medium.com/feed"
       # Snake Animation
             - uses: Platane/snk@master
