@@ -16,9 +16,11 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            #- uses:  gautamkrishnar/blog-post-workflow@v1
-              #with: 
-                #feed_list: "https://dev.to/feed/@elbrag"
+            - uses: deep-matter/blog-post-workflow@v1
+              with: 
+                max_post_count: "3"
+                remove_duplicates: true
+                feed_list: "https://medium.com/@younsess-elbrag"
       # Snake Animation
             - uses: Platane/snk@master
               id: snake-gif
