@@ -16,7 +16,6 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - name: Pull in medium.com to posts
             - uses: gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "3"
