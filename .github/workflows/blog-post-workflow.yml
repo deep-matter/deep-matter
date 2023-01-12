@@ -20,7 +20,7 @@ jobs:
               with: 
                 max_post_count: "3"
                 remove_duplicates: true
-                feed_list: "https://medium.com/feed/@younsess-elbrag"
+                feed_list: "https://younsess-elbrag.medium.com/feed"
       # Snake Animation
             - uses: Platane/snk@master
               id: snake-gif
