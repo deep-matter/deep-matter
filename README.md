@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Measuring Neural Network Performance: Latency and Throughput on GPU](https://younsess-elbrag.medium.com/measuring-neural-network-performance-latency-and-throughput-on-gpu-5d54657871f0?source=rss-1b1ea2d69eaa------2)
 <!-- BLOG-POST-LIST:END  -->
 
 <!-- ## 🛠 &nbsp;Tech Stack -->
