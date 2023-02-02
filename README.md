@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [the Benefit of Learning from the Frequency Domain in Segmentation Biomedical Images](https://younsess-elbrag.medium.com/the-benefit-of-learning-from-the-frequency-domain-in-segmentation-biomedical-images-6da0274a2d0c?source=rss-1b1ea2d69eaa------2)
 - [Measuring Neural Network Performance: Latency and Throughput on GPU](https://younsess-elbrag.medium.com/measuring-neural-network-performance-latency-and-throughput-on-gpu-5d54657871f0?source=rss-1b1ea2d69eaa------2)
 <!-- BLOG-POST-LIST:END  -->
 
