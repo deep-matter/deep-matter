@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Active Learning Approaches: Strategies, Deep Learning Integration, and Essential Tools](https://younsess-elbrag.medium.com/active-learning-approaches-strategies-deep-learning-integration-and-essential-tools-6ff2bdfe5cb?source=rss-1b1ea2d69eaa------2)
 - [Overview of Last LLM in Medicine like never know before now](https://younsess-elbrag.medium.com/physics-of-language-model-llm-biomedical-like-never-know-before-now-e4b0178f3c6?source=rss-1b1ea2d69eaa------2)
 - [Physics of Language Model || Vision-Transformer Biomedical Image part 2](https://younsess-elbrag.medium.com/physics-of-language-model-vision-transformer-biomedical-image-part-2-3389ab7d7a5?source=rss-1b1ea2d69eaa------2)
 - [Physics of Language Model || Transformer part 1](https://younsess-elbrag.medium.com/physics-of-language-model-transformer-part-1-9c7692db023d?source=rss-1b1ea2d69eaa------2)
 - [Software 1.0 Vs Software 2.0: Revolutions of Next Generation Applications Powered by AI](https://younsess-elbrag.medium.com/software-1-0-vs-software-2-0-revolutions-of-next-generation-applications-powered-by-ai-5856586de152?source=rss-1b1ea2d69eaa------2)
-- [the Benefit of Learning from the Frequency Domain in Segmentation Biomedical Images](https://younsess-elbrag.medium.com/the-benefit-of-learning-from-the-frequency-domain-in-segmentation-biomedical-images-6da0274a2d0c?source=rss-1b1ea2d69eaa------2)
 <!-- BLOG-POST-LIST:END  -->
 
 <!-- ## 🛠 &nbsp;Tech Stack -->
