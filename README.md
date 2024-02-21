@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Masked Graph modeling for generating Graphs based on Variational-AVE “Constructive…](https://younsess-elbrag.medium.com/self-supervised-masked-graph-modeling-for-generating-graphs-based-on-variational-ave-constructive-18d2d810ffec?source=rss-1b1ea2d69eaa------2)
 - [Industrial 4.0](https://younsess-elbrag.medium.com/industrial-4-0-ba9e89b5502a?source=rss-1b1ea2d69eaa------2)
 - [Active Learning Approaches: Strategies, Deep Learning Integration, and Essential Tools](https://younsess-elbrag.medium.com/active-learning-approaches-strategies-deep-learning-integration-and-essential-tools-6ff2bdfe5cb?source=rss-1b1ea2d69eaa------2)
 - [Overview of Last LLM in Medicine like never know before now](https://younsess-elbrag.medium.com/physics-of-language-model-llm-biomedical-like-never-know-before-now-e4b0178f3c6?source=rss-1b1ea2d69eaa------2)
 - [Physics of Language Model || Vision-Transformer Biomedical Image part 2](https://younsess-elbrag.medium.com/physics-of-language-model-vision-transformer-biomedical-image-part-2-3389ab7d7a5?source=rss-1b1ea2d69eaa------2)
-- [Physics of Language Model || Transformer part 1](https://younsess-elbrag.medium.com/physics-of-language-model-transformer-part-1-9c7692db023d?source=rss-1b1ea2d69eaa------2)
 <!-- BLOG-POST-LIST:END  -->
 
 <!-- ## 🛠 &nbsp;Tech Stack -->
