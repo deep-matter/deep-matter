@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Personalized AI Chatbot with LLM-RAG-Modeling-Q&amp;A](https://younsess-elbrag.medium.com/building-a-personalized-ai-chatbot-with-llm-rag-modeling-q-a-9e15a4afbbed?source=rss-1b1ea2d69eaa------2)
 - [Building Tiny-Llama from ground blocks Decoder-only with Reinforcement Learning from Human Feedback…](https://younsess-elbrag.medium.com/building-tiny-llama-from-ground-blocks-decoder-only-with-reinforcement-learning-from-human-feedback-c6777c7ecbbc?source=rss-1b1ea2d69eaa------2)
 - [Parallelizing Training and Fine-Tuning for Large Language Models: Leveraging Distributed GPU…](https://younsess-elbrag.medium.com/parallelizing-training-and-fine-tuning-for-large-language-models-leveraging-distributed-gpu-b71d59d88044?source=rss-1b1ea2d69eaa------2)
 - [Self-Supervised Masked Graph modeling for generating Graphs based on Variational-AVE “Constructive…](https://younsess-elbrag.medium.com/self-supervised-masked-graph-modeling-for-generating-graphs-based-on-variational-ave-constructive-18d2d810ffec?source=rss-1b1ea2d69eaa------2)
 - [Industrial 4.0](https://younsess-elbrag.medium.com/industrial-4-0-ba9e89b5502a?source=rss-1b1ea2d69eaa------2)
-- [Active Learning Approaches: Strategies, Deep Learning Integration, and Essential Tools](https://younsess-elbrag.medium.com/active-learning-approaches-strategies-deep-learning-integration-and-essential-tools-6ff2bdfe5cb?source=rss-1b1ea2d69eaa------2)
 <!-- BLOG-POST-LIST:END  -->
 
 <!-- ## 🛠 &nbsp;Tech Stack -->
