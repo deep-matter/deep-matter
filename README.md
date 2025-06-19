@@ -95,15 +95,71 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Comprehensive GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deep-matter&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true&line_height=28" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deep-matter&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+
+### 🔥 GitHub Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-matter&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=0C82F9&fire=0C82F9&currStreakLabel=0C82F9" alt="GitHub Streak Stats" />
+
+### 📈 Detailed GitHub Statistics
+<table>
+  <tr>
+    <td>
+      <img height="200" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deep-matter&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true&line_height=28&custom_title=Youness's%20GitHub%20Stats&hide_rank=false&show_owner=true" />
+    </td>
+    <td>
+      <img height="200" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deep-matter&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=10&hide=HTML,CSS,Batchfile,Makefile,Shell&exclude_repo=Learning-Resource&count_private=true&custom_title=Most%20Used%20Languages" />
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=Deep-matter&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+### 📊 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deep-matter&bg_color=0d1117&color=0c82f9&line=0c82f9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+
+### 🔍 Additional Profile Metrics
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deep-matter&theme=github_dark" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deep-matter&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deep-matter&theme=github_dark" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deep-matter&theme=github_dark&utcOffset=3" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+### 📅 Detailed Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deep-matter&theme=github_dark" alt="Profile Details" />
+
+### 🎯 Key Metrics Summary
+<div align="left">
+
+**🔸 Coding Focus Areas:**
+- **AI/ML Development:** PyTorch, TensorFlow, HuggingFace
+- **LLM Engineering:** Fine-tuning, RAG Systems, Multi-Agent AI
+- **Systems Programming:** Rust, C++, Distributed Computing
+- **Research:** Computer Vision, Medical AI, Graph Neural Networks
+
+**🔸 Professional Impact:**
+- **7+ Years** Python expertise with enterprise-scale deployments
+- **1M+ Embeddings** processed in distributed vector databases
+- **MAP 0.654, MRR 0.720** achieved in DevStral fine-tuning
+- **32% Improvement** in semantic retrieval performance
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deep-matter&theme=github_dark" width="87%" />
 </div>
 
 ---
