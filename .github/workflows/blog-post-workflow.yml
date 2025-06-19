@@ -1,25 +1,15 @@
-name: Latest Profile Stats and Snake Animation
+name: Snake Animation Generator
 on:
   workflow_dispatch:
   schedule:
-    # Update WakaTime stats every 2 hours
-    - cron: "0 */2 * * *"
     # Update snake animation every 12 hours  
     - cron: "0 */12 * * *"
   push:
     branches: ["main", "master"]
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
-  update-profile:
-    name: Update Profile with Snake Animation
+  generate-snake:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -40,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB }}
