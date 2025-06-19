@@ -1,66 +1,118 @@
-[![](https://github.com/deep-matter/deep-matter/blob/main/chat.svg)](https://twitter.com/elbragyouness)
+[![](https://github.com/deep-matter/deep-matter/blob/main/chat.svg)](https://linkedin.com/in/youness-el-brag-b13628203)
+
+<h1 align="center">👋 Hi, I'm Youness El Brag</h1>
+<h3 align="center">Lead AI Engineer | LLM Specialist | Distributed AI Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0C82F9&center=true&vCenter=true&width=600&lines=Lead+AI+Engineer+at+Aila%2C+KSA;7%2B+Years+in+Python+%26+PyTorch;LLM+Fine-tuning+%26+Deployment;Distributed+AI+Systems+Expert;Computer+Vision+%26+Medical+AI" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+- **Leading AI team** at Aila (Riyadh, KSA) developing autonomous AI agents for personalized e-learning
+- **Fine-tuning LLMs** like DevStral for automated bug localization with state-of-the-art performance
+- **Building GraphRAG systems** with multi-agent architectures for enhanced semantic retrieval
+- **Scaling FAISS databases** with distributed HNSW/IVF indices for 1M+ embeddings
+
+## 🎯 Recent Achievements
+- 🏆 **Outperformed DeepSeek R1** with DevStral fine-tuning: MAP 0.654, MRR 0.720
+- ⚡ **3.56ms query latency** on distributed vector databases with 1M+ embeddings  
+- 📈 **+32% improvement** in semantic retrieval using Self-Reflection + GraphRAG
+- 🔬 **Published 4+ research papers** in medical AI and computer vision
+
+---
 
 <h3 align="center">Connect with me:</h3>
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:younsselbrag@gmail.com)
-[![My Linkdin](https://img.shields.io/badge/My%20Linkdin-%230077B5?logo=Linkdin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/youness-el-brag-b13628203/)
-[![My ReseachGate](https://img.shields.io/badge/My%20ReseachGate-00CCBB?logo=ReseachGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Youness-El-Brag)
-[![My Twitter](https://img.shields.io/badge/My%20Twitter-%230077B5?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/elbragyouness)
-[![My Kaggke](https://img.shields.io/badge/My%20Kaggle-3D80E0?logo=kaggle&logoColor=white&style=for-the-badge)](https://kaggle.com/younesselbrag)
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdeep-matter%2Fdeep-matter%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeep-matter%2Fdeep-matter%2F)
+<p align="center">
+<a href="mailto:younsselbrag@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/youness-el-brag-b13628203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.researchgate.net/profile/Youness-El-Brag"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge" /></a>
+<a href="https://twitter.com/elbragyouness"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+<a href="https://kaggle.com/younesselbrag"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" /></a>
+</p>
 
-<br>
-- 💬 Ask me about **Math behinds Neural network and RL**
+<p align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdeep-matter%2Fdeep-matter%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdeep-matter%2Fdeep-matter%2F&label=Visitors&countColor=%23379a6d" /></a>
+</p>
 
+---
 
+## 🛠 Tech Stack
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Personalized AI Chatbot with LLM-RAG-Modeling-Q&amp;A](https://younsess-elbrag.medium.com/building-a-personalized-ai-chatbot-with-llm-rag-modeling-q-a-9e15a4afbbed?source=rss-1b1ea2d69eaa------2)
-- [Building Tiny-Llama from ground blocks Decoder-only with Reinforcement Learning from Human Feedback…](https://younsess-elbrag.medium.com/building-tiny-llama-from-ground-blocks-decoder-only-with-reinforcement-learning-from-human-feedback-c6777c7ecbbc?source=rss-1b1ea2d69eaa------2)
-- [Parallelizing Training and Fine-Tuning for Large Language Models: Leveraging Distributed GPU…](https://younsess-elbrag.medium.com/parallelizing-training-and-fine-tuning-for-large-language-models-leveraging-distributed-gpu-b71d59d88044?source=rss-1b1ea2d69eaa------2)
-- [Self-Supervised Masked Graph modeling for generating Graphs based on Variational-AVE “Constructive…](https://younsess-elbrag.medium.com/self-supervised-masked-graph-modeling-for-generating-graphs-based-on-variational-ave-constructive-18d2d810ffec?source=rss-1b1ea2d69eaa------2)
-- [Industrial 4.0](https://younsess-elbrag.medium.com/industrial-4-0-ba9e89b5502a?source=rss-1b1ea2d69eaa------2)
-<!-- BLOG-POST-LIST:END  -->
-
-<!-- ## 🛠 &nbsp;Tech Stack -->
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h1>
-  
+### **Core Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
-![C sharp](https://img.shields.io/badge/-C%20Sharp-0d1117?style=flat-square&logo=csharp&logoColor=1D9924)&nbsp;
-![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=Java&logoColor=FFA518)&nbsp;
 
-![Pytorch](https://img.shields.io/badge/-Pytorch-0d1117?style=flat-square&logo=Pytorch&logoColor=FFA518)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=FFA518)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-0d1117?&style=flat-square&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat-square&logo=pandas)&nbsp;
+### **LLM & AI Stack**
+![LangChain](https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2)&nbsp;
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)&nbsp;
+![vLLM](https://img.shields.io/badge/-vLLM-0d1117?style=flat-square&logo=openai&logoColor=412991)&nbsp;
+![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-0d1117?style=flat-square&logo=microsoft&logoColor=00BCF2)&nbsp;
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-0d1117?style=flat-square&logo=meta&logoColor=0467DF)&nbsp;
 
+### **ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)&nbsp;
+
+### **Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)&nbsp;
+![GCP](https://img.shields.io/badge/-Google%20Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
+
+### **Tools & Development**
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
-![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!--
-## &#128202; Git Stats
--->
-<h2 ><img src = "https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deep-matter&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
-  <img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deep-matter&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true&line_height=28" />
-</a>
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deep-matter&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
-  <img align="left" width="43%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deep-matter&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
-</a>
+![VSCode](https://img.shields.io/badge/-VSCode-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194E2)&nbsp;
 
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deep-matter&theme=github_dark">
-  <img align="left" width="87%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deep-matter&theme=github_dark" />
-</a>
+---
 
+## 💼 Experience Highlights
 
+**🔹 Lead AI Engineer @ Aila (Riyadh, KSA)** `May 2025 - Present`
+- Leading autonomous AI agent development for personalized e-learning platforms
+- Architecting scalable AI systems for educational technology
 
-<!-- 📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Youness-Elbrag/github-readme-activity-graph#customization -->
+**🔹 Senior ML Engineer @ AiGot (PISA, Italy)** `Jan 2024 - May 2025`
+- Fine-tuned DevStral-Small-2505 outperforming DeepSeek R1 across all metrics
+- Built distributed graph extraction pipeline processing 3-4 repos daily (1,077+ repos total)
+- Implemented GraphRAG-based multi-agent systems improving retrieval by +32%
+- Scaled FAISS vector databases achieving 3.56ms query latency on 1M+ embeddings
 
-<!-- ![Youness's github activity graph](https://activity-graph.herokuapp.com/graph?username=deep-matter&theme=react-dark) -->
+**🔹 AI Research Engineer @ Allied Medical Sciences** `May 2022 - July 2024`
+- Developed FFPE (Fast Fourier Positional Encoding) for weakly supervised learning
+- Built attention-based neural networks achieving 86% Dice score in segmentation
+- Created tools for medical image processing with 1000 samples/2min throughput
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deep-matter&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true&line_height=28" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deep-matter&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deep-matter&theme=github_dark" width="87%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 ![](https://github.com/deep-matter/deep-matter/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlignY=65&desc=Thanks%20for%20visiting!&descAlignY=51&descAlign=center"/>
+</div>
